@@ -52,7 +52,7 @@ To use the model for facial landmarks detection, you can follow these steps:
 
 ## Acknowledgements
 
-We would like to thank the authors of the iBUG 300W Large Face Landmark Dataset for providing the valuable dataset for this project.
+I would like to thank the authors of the iBUG 300W Large Face Landmark Dataset for providing the valuable dataset for this project.
 
 ## License
 
