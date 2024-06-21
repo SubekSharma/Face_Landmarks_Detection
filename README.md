@@ -2,6 +2,9 @@
 
 This is a deep learning project that aims to detect facial landmarks in images using PyTorch. The model is based on the ResNet-18 architecture and is trained on the iBUG 300W Large Face Landmark Dataset.
 
+![image](https://github.com/SubekSharma/Face_Landmarks_Detection/assets/71229363/446bb728-c8af-46e6-bf3a-adabecfd40a3)
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Requirements](#requirements)
